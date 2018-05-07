@@ -14,6 +14,7 @@
 		90E7A2A320A02C790058A874 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90E7A2A120A02C790058A874 /* LaunchScreen.storyboard */; };
 		90E7A2AE20A02C790058A874 /* GitiOSExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7A2AD20A02C790058A874 /* GitiOSExampleTests.swift */; };
 		90E7A2B920A02C790058A874 /* GitiOSExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7A2B820A02C790058A874 /* GitiOSExampleUITests.swift */; };
+		90E7A2C720A04E3C0058A874 /* MapConceptViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90E7A2C620A04E3C0058A874 /* MapConceptViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		90E7A2B420A02C790058A874 /* GitiOSExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitiOSExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		90E7A2B820A02C790058A874 /* GitiOSExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitiOSExampleUITests.swift; sourceTree = "<group>"; };
 		90E7A2BA20A02C790058A874 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90E7A2C620A04E3C0058A874 /* MapConceptViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapConceptViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				90E7A29820A02C790058A874 /* AppDelegate.swift */,
 				90E7A29A20A02C790058A874 /* ViewController.swift */,
+				90E7A2C620A04E3C0058A874 /* MapConceptViewController.swift */,
 				90E7A29C20A02C790058A874 /* Main.storyboard */,
 				90E7A29F20A02C790058A874 /* Assets.xcassets */,
 				90E7A2A120A02C790058A874 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				90E7A29B20A02C790058A874 /* ViewController.swift in Sources */,
 				90E7A29920A02C790058A874 /* AppDelegate.swift in Sources */,
+				90E7A2C720A04E3C0058A874 /* MapConceptViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
